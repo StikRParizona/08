@@ -1,0 +1,26 @@
+header {
+    background-color: black;
+    font-size: 70px;
+    border-radius: 50px;
+}
+
+.chair {
+    color: white;
+}
+
+.bair {
+    background-color: gray;
+}
+
+body {
+    background-color: gray;
+}
+
+.lala {
+    font-size: 35px;
+    color: white;
+}
+
+.lolo {
+    background-color: white;
+}
